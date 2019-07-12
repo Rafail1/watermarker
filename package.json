@@ -1,0 +1,19 @@
+{
+  "name": "wm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffer-shims": "^1.0.0",
+    "iconv": "^2.3.4",
+    "iconv-lite": "^0.4.24",
+    "imagemagick-dynamic-watermark": "^3.1.0",
+    "legacy-encoding": "^3.0.0"
+  }
+}
